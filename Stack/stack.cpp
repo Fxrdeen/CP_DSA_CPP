@@ -2,8 +2,6 @@
 #define n 100
 using namespace std;
 
-
-
 class stack{
   int *arr;
   int top;
